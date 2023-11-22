@@ -1,7 +1,7 @@
 <h1> Hi there 👋 I'am Filbert</h1>
 
 Full-stack Software Developer💫
-<br>- 🔭 I'm currently working on Redux<br>- 👯 I'm looking to collaborate on different projects around the globe<br>- 🌱 I'm currently a Micronount<br>- 💬 Ask me about javascript best practices and react<br>- ⚡ Fun fact, I’m  very patient and measured
+<br>- 🔭 I'm currently working on Ruby<br>- 👯 I'm looking to collaborate on different projects around the globe<br>- 🌱 I'm currently a Micronount<br>- 💬 Ask me about javascript best practices and react<br>- ⚡ Fun fact, I’m  very patient and measured
 
 
 ## 🌐 Socials:
